@@ -4,7 +4,7 @@ I'm Brendan Lo, a high school student who does web development, biology research
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,git,github,python,java,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,git,github,py,pycharm,pytorch,java,cs,anaconda,linux&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 

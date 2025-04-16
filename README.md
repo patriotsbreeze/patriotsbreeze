@@ -14,3 +14,9 @@ I'm Brendan Lo, a high school student who does web development, biology research
 ## Top Projects
 
 [![GNS Web Dev Club Website](https://github-readme-stats.vercel.app/api/pin/?username=patriotsbreeze&repo=gnswebdev&theme=dark)](https://github.com/patriotsbreeze/gnswebdev)
+[![GNS SADD Club Website](https://github-readme-stats.vercel.app/api/pin/?username=patriotsbreeze&repo=gns-sadd&theme=dark)](https://github.com/patriotsbreeze/gns-sadd)
+[![GNS Astronomy Club Website](https://github-readme-stats.vercel.app/api/pin/?username=patriotsbreeze&repo=gns-astronomy&theme=dark)](https://github.com/patriotsbreeze/gns-astronomy)
+[![FRC 2638 Website](https://github-readme-stats.vercel.app/api/pin/?username=thereidfleish&repo=2638-website&theme=dark)](https://github.com/thereidfleish/2638-website)
+
+
+

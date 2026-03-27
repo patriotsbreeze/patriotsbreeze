@@ -7,7 +7,7 @@ I build at the intersection of software engineering and biological science. From
 ---
 
 ### 🚀 At a Glance
-- 💻 **Dev**: Building **[ReSource](https://devpost.com/software/resource-i3nq1y)** (AI circular economy) and **[SATsaurus](https://satsaurus.org)**.
+- 💻 **Dev**: Building **[ReSource](https://devpost.com/software/resource-i3nq1y)** (AI circular economy) and **[SATsaurus]**.
 - 🧪 **Research**: Independent Researcher focused on **ML-based virtual screening** and molecular dynamics for PRC2 protein inhibition.
 - ☁️ **Infrastructure**: Founder of **[Force Network](https://forcenetwork.cloud)**, hosting 100+ servers for 800+ users.
 - 🎓 **Leadership**: Programming Club Lead and Eagle Scout.

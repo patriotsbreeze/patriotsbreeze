@@ -1,60 +1,41 @@
-# Hi there, I'm Brendan Lo 👋
+### Brendan Lo · Software Engineer & Researcher
 
-**Software Engineer & Researcher | University of Chicago**
+Building at the intersection of **software**, **cloud infrastructure**, and **computational biology** — University of Chicago.
 
-I build at the intersection of software engineering and biological science. From developing high-scale cloud infrastructure to implementing machine learning models for drug discovery, I'm passionate about creating tools that solve real-world problems.
+[![Website](https://img.shields.io/badge/website-brendanlo.dev-0366d6?style=flat-square&logo=google-chrome&logoColor=white)](https://brendanlo.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-brendan--lo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendan-lo-8b0b80247/)
+[![Email](https://img.shields.io/badge/email-brendanlo%40uchicago.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brendanlo@uchicago.edu)
+[![Force Network](https://img.shields.io/badge/Force_Network-forcenetwork.cloud-5865F2?style=flat-square)](https://forcenetwork.cloud)
 
----
+![GitHub metrics](./github-metrics.svg)
 
-### 🚀 At a Glance
-- 💻 **Dev**: Building **[ReSource](https://devpost.com/software/resource-i3nq1y)** (AI circular economy) and **[SATsaurus]**.
-- 🧪 **Research**: Independent Researcher focused on **ML-based virtual screening** and molecular dynamics for PRC2 protein inhibition.
-- ☁️ **Infrastructure**: Founder of **[Force Network](https://forcenetwork.cloud)**, hosting 100+ servers for 800+ users.
-- 🎓 **Leadership**: Programming Club Lead and Eagle Scout.
+<details>
+<summary><b>Featured work</b></summary>
+<br>
 
----
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**ReSource**](https://devpost.com/software/resource-i3nq1y) | AI-powered circular economy platform — identify and recycle items via vision + maps | Next.js, Gemini Vision, Mapbox |
+| [**Force Network**](https://forcenetwork.cloud) | Hosting for 100+ game servers and 800+ users | Node.js, Docker, MongoDB, Pterodactyl |
+| [**SATsaurus**](https://satsaurus.org) | Free SAT prep — practice, flashcards, and competitive 1v1 mode | Web |
+| **PRC2 Drug Discovery** | ML virtual screening + MD validation for protein complex inhibition | Python, GROMACS, Schrödinger Maestro |
 
-### 🛠️ Tech Stack
+</details>
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | TypeScript, Python, Java, C#, SQL, R, Swift, JavaScript |
-| **Frontend** | Next.js, React, Tailwind CSS, HTML/CSS |
-| **Backend** | Node.js, Express, PostgreSQL, Supabase, MongoDB, Firebase |
-| **Scientific** | GROMACS, Schrödinger Maestro, Matplotlib, Fiji/ImageJ, RNA-seq |
-| **Tools** | Docker, Pterodactyl, Mapbox, Gemini AI, Git |
+<details>
+<summary><b>Tech stack</b></summary>
+<br>
 
----
+**Languages** · TypeScript · Python · Java · C# · SQL · R · Swift · JavaScript
 
-### 📂 Featured Work
+**Frontend** · Next.js · React · Tailwind CSS
 
-#### 🌍 [ReSource](https://devpost.com/software/resource-i3nq1y)
-*AI-powered platform for the circular economy.*
-- **Tech**: Next.js, Gemini Vision AI, Mapbox.
-- **Impact**: Helps users identify and recycle items using real-time AI image recognition and geospatial mapping.
+**Backend** · Node.js · Express · PostgreSQL · Supabase · MongoDB · Firebase
 
-#### ☁️ [Force Network](https://forcenetwork.cloud)
-*High-performance hosting solutions.*
-- **Tech**: Node.js, Docker, MongoDB, Pterodactyl.
-- **Impact**: Manages 100+ Minecraft servers and provides unlimited bandwidth for 800+ active developers and gamers.
+**Scientific** · GROMACS · Schrödinger Maestro · Matplotlib · Fiji/ImageJ · RNA-seq
 
-#### 🧬 [PRC2 Drug Discovery](https://github.com/patriotsbreeze)
-*Machine Learning in Computational Biology.*
-- **Tech**: Python (Random Forest), GROMACS, Schrödinger Maestro.
-- **Impact**: Trained ML models to repurpose drugs for PRC2 protein complex inhibition, validated via MD simulations.
+**Tools** · Docker · Pterodactyl · Mapbox · Git
 
----
+</details>
 
-### 📈 GitHub Stats
-![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriotsbreeze&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriotsbreeze&layout=compact&theme=transparent)
-
----
-
-### 📬 Connect with Me
-- **LinkedIn**: [in/brendan-lo](https://www.linkedin.com/in/brendan-lo-8b0b80247/)
-- **Email**: brendanlo@uchicago.edu
-- **Website**: [brendanlo.dev](https://brendanlo.dev)
-
----
-*"Accelerating progress through tech and science."*
+<sub>*Accelerating progress through tech and science.*</sub>

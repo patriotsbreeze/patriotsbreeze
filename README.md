@@ -7,7 +7,11 @@ Building at the intersection of **software**, **cloud infrastructure**, and **co
 [![Email](https://img.shields.io/badge/email-brendanlo%40uchicago.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brendanlo@uchicago.edu)
 [![Force Network](https://img.shields.io/badge/Force_Network-forcenetwork.cloud-5865F2?style=flat-square)](https://forcenetwork.cloud)
 
+<<<<<<< HEAD
 ![GitHub metrics](./github-metrics.svg)
+=======
+![GitHub metrics](https://metrics.lecoq.io/patriotsbreeze?template=classic&base=header,activity,repositories,metadata&config.timezone=America%2FChicago&plugin.isocalendar=yes&plugin.isocalendar.duration=half-year&plugin.languages=yes&plugin.languages.indepth=yes&plugin.languages.limit=20&plugin.licenses=yes&plugin.lines=yes&plugin.topics=yes)
+>>>>>>> f71f7c4 (Add metrics workflow and fix README image URL)
 
 <details>
 <summary><b>Featured work</b></summary>

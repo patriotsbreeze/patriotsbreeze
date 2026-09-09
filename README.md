@@ -38,4 +38,4 @@ Building at the intersection of **software**, **cloud infrastructure**, and **co
 
 </details>
 
-<sub>*Accelerating progress through tech and science.*</sub>
+<sub>*Accelerating progress through tech and science..*</sub>

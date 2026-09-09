@@ -34,7 +34,7 @@ Building at the intersection of **software**, **cloud infrastructure**, and **co
 
 **Scientific** · GROMACS · Schrödinger Maestro · Matplotlib · Fiji/ImageJ · RNA-seq
 
-**Tools** · Docker · Pterodactyl · Mapbox · Git
+**Tools** · Docker · Pterodactyl · Mapbox · Git CI/CD
 
 </details>
 
